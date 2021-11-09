@@ -1,0 +1,52 @@
+div{
+  margin-top: 20px;
+}
+#detail img {
+  max-height: 400;
+}
+
+#price {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-weight: normal;
+  font-size: 1.5em;
+}
+
+#products {
+  display: flex;
+  justify-content: center;
+}
+
+.product {
+  display: flex;
+  align-items: flex-end;
+  text-align: center;
+}
+a {
+  color: #f39121;
+  text-decoration: none;
+  
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h1,
+h2,
+h3,p {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-weight: normal;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: 0;
+  vertical-align: middle;
+}
